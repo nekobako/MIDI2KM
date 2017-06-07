@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For MIDI2KM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MIDI2KM	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setButtonState	KEYWORD2
+setKeyState		KEYWORD2
+setWheelState	KEYWORD2
+sendStates		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,19 @@
+leonardo.name=Arduino Leonardo (MIDI2KM)
+leonardo.upload.tool=avrdude
+leonardo.upload.protocol=avr109
+leonardo.upload.maximum_size=28672
+leonardo.upload.maximum_data_size=2560
+leonardo.upload.speed=57600
+leonardo.upload.disable_flushing=true
+leonardo.upload.use_1200bps_touch=true
+leonardo.upload.wait_for_upload_port=true
+
+leonardo.build.mcu=atmega32u4
+leonardo.build.f_cpu=16000000L
+leonardo.build.vid=0x0507
+leonardo.build.pid=0x0010
+leonardo.build.usb_product="Arduino Leonardo (MIDI2KM)"
+leonardo.build.board=AVR_LEONARDO
+leonardo.build.core=arduino_cdc_disabled
+leonardo.build.variant=arduino:leonardo
+leonardo.build.extra_flags={build.usb_flags}
