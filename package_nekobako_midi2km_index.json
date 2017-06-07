@@ -1,0 +1,33 @@
+{
+	"packages": [
+		{
+			"name": "MIDI2KM",
+			"maintainer": "nekobako",
+			"websiteURL": "https://github.com/nekobako/MIDI2KM",
+			"email": "",
+			"help": {
+				"online": ""
+			},
+			"platforms": [
+				{
+					"name": "MIDI2KM",
+					"architecture": "avr",
+					"version": "1.0.0",
+					"category": "MIDI2KM",
+					"help": {
+						"online": ""
+					},
+					"url": "https://github.com/nekobako/MIDI2KM/releases/download/1.0.0/MIDI2KM.zip",
+					"archiveFileName": "MIDI2KM.zip",
+					"checksum": "SHA-256:35ecb9e532c1902053c0ced21bc572e0d3090c181f32186ac4153d6c38dee894",
+					"size": "97461",
+					"boards": [
+						{"name": "Arduino Leonardo (MIDI2KM)"}
+					],
+					"toolsDependencies": []
+				}
+			],
+			"tools": []
+		}
+	]
+}
